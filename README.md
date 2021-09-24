@@ -2,7 +2,7 @@
 Botle Rocket
 
 # WeatherApp
-<img align="right" src="previews/preview_1.gif" width="33%"/>
+
 Android Weather app developed in Kotlin. The app is composed of a single screen and the app widget.
 
 Display the header (including city name, date, time and temperature for the
