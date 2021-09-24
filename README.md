@@ -26,4 +26,3 @@ Displays up to date header image and cities with info from API listed below. The
 + https to make REST requests to the web service integrated with Coroutine to run operations in the background without creating multiple callbacks. <br/>
 + RecyclerView and CardView to vie infor and the eserialization of the returned JSON to Kotlin data objects.<br/>
 + Android Architecture Components (ViewModel, LiveData, Data Binding, WorkManager).<br/>
-+ The app accesses the set of supported location services through classes in the com.google.android.gms.location package.
