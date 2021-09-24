@@ -11,4 +11,4 @@ mentioned above.
 • Use https://allweather.docs.apiary.io/#reference/0/cities-collection/list-cities  All Weather API and consume using http standar with Threads simple
 • Any user can select the image of the city and goes to the cloud icon to get inf of 7 days
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/ezsocial/bottlerocket/blob/main/Screenshot_20210924_000145.png)
