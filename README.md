@@ -3,7 +3,7 @@ Botle Rocket
 
 # WeatherApp
 Dowloand to install
-Use https://allweather.docs.apiary.io/#reference/0/cities-collection/list-cities
+Use https://github.com/ezsocial/bottlerocket/blob/main/bottlerocket.apk
 
 Android Weather app developed in Kotlin. The app is composed of a single screen and the app widget.
 
