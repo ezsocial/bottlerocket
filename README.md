@@ -16,9 +16,7 @@ mentioned above.
 
 <img align="right" src="https://github.com/ezsocial/bottlerocket/blob/main/Screenshot_20210924_000145.png" width="33%"/>
 
-![Screenshot](https://github.com/ezsocial/bottlerocket/blob/main/Screenshot_20210924_000145.png)
-
-## Widget
+## Widgetelebuenos 
 Displays up to date header image and cities with info from API listed below. The app has support for Android 10 and 11 by adding logic. 
 
 
